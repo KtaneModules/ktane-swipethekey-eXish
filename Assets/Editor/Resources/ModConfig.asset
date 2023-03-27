@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: swipeTheKey
+  title: Swipe The Key
+  author: eXish
+  description: "This is a reupload of a module, unsubscribe from the old version here:
+    https://steamcommunity.com/sharedfiles/filedetails/?id=2881092425\n\nThe best
+    form of magnetic information storage. Wait, what do you mean VHS cassettes exist?\n\nGrab
+    a key from the folder beside you and swipe it into the module.\n\nSwipe The Key
+    (swipeTheKey) v1.2\r\nModule by BakersDozenBagels, maintained by eXish\r\nTwitch
+    Plays supported"
+  version: 1.2
+  outputFolder: build
+  previewImage: {fileID: 2800000, guid: 73335f374d6e1ce4eb202d95eaabb42a, type: 3}
